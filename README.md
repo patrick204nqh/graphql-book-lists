@@ -7,3 +7,13 @@
 2. Refer:
 
 > https://viblo.asia/p/su-dung-thu-vien-apollo-cho-graphql-api-Eb85oE8WZ2G
+
+3. How to run:
+
+- server
+
+      nodemon app
+
+- client
+
+      npm start
