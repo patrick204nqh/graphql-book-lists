@@ -1,4 +1,4 @@
-# Patrick's Project (using GraphQL)
+# Patrick's Project (using GraphQL, Lodash library)
 
 1. Source video:
 
