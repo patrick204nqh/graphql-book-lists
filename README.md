@@ -1,4 +1,4 @@
-# Patrick's Project (using GraphQL, Lodash library, MongoDB)
+# Patrick's Project (using GraphQL, Lodash library, MongoDB, Express)
 
 1. Source video:
 
