@@ -18,7 +18,6 @@ class AddBook extends Component {
   }
   displayAuthors() {
     var data = this.props.getAuthorsQuery;
-    console.log(data);
     if (data.loading) {
       return <option disabled>Loading Authors...</option>;
     } else {
